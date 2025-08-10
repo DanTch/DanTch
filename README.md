@@ -10,7 +10,7 @@
 - 🤖 Telegram bot developer with automation expertise
 - 🛠️ Passionate about ethical hacking, malware analysis, and network security
 - 📚 Constantly learning new security techniques and development methodologies
-- 🇮🇷 I'm from Iran 🦁☀️ 
+- 🇮🇷 I'm from Iran 
 
 ---
 
