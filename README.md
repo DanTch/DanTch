@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3B2dGZ4dDd3dDl2c2V4d3Z6M2Q3a2U3c3N2Z3l0c2J3bGQ3eGQ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnmiqNhIY2eP1a/giphy.gif" width="200">
 </div>
 
-<h1 align="center">Hi there! I'm [Your Name] 🦁☀️</h1>
+<h1 align="center">Hi there! I'm Danyal </h1>
 <h3 align="center">Python Developer | Security Specialist | Ethical Hacker | Telegram Bot Developer</h3>
 
 ---
@@ -13,7 +13,7 @@
 - 🤖 Telegram bot developer with automation expertise
 - 🛠️ Passionate about ethical hacking, malware analysis, and network security
 - 📚 Constantly learning new security techniques and development methodologies
-- 🇮🇷 I'm from Iran 🦁☀️ (شیر و خورشید)
+- 🇮🇷 I'm from Iran 🦁☀️ 
 
 ---
 
