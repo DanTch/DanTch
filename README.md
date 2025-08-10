@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3B2dGZ4dDd3dDl2c2V4d3Z6M2Q3a2U3c3N2Z3l0c2J3bGQ3eGQ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnmiqNhIY2eP1a/giphy.gif" width="200">
-</div>
 
 <h1 align="center">Hi there! I'm Danyal </h1>
 <h3 align="center">Python Developer | Security Specialist | Ethical Hacker | Telegram Bot Developer</h3>
@@ -31,8 +28,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanTch&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanTch&theme=dark&hide_border=true" alt="GitHub Streak">
 </div>
 
 ---
@@ -46,6 +43,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150">
-</div>
