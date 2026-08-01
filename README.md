@@ -27,7 +27,7 @@
 
 ### 📩 Contact Me
 <div align="center">
-  <a href="https://t.me/Danyal_net">
+  <a href="https://t.me/Danyal_EP">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
